@@ -30,7 +30,7 @@ changes to one of the projects listed below:
 
 - [xiaotool](https://github.com/xiao-akatsuki/xiaoTools)
 - [xiao cache](https://github.com/xiao-akatsuki/xiaoCache)
-- [axio](https://github.com/xiao-akatsuki/axios)
+- [axios](https://github.com/xiao-akatsuki/axios)
 
 We are limiting the RFC process for these reports to test out the process in a more manageable fashion and may expand it to cover more projects under the `xiao-Akatsuki` organization in the future. For now, if you wish to suggest changes to those other projects, please use their respective issue lists.
 
